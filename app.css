@@ -34,6 +34,7 @@ h2 {
 ol {
     color: white;
     padding: 0px 10px 0px 10px;
+    backgroud-color: rgb(5, 5, 5, 0.50);
 }
 li {
     display: inline;
